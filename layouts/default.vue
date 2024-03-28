@@ -20,7 +20,7 @@
           <div class="flex space-x-4">
             <NuxtLink to="/" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Home</NuxtLink>
             <!-- <NuxtLink to="/about" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">About</NuxtLink> -->
-            <NuxtLink to="/team" class="text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Team</NuxtLink>
+            <NuxtLink to="/team" class="team-button text-gray-300 hover:bg-gray-700 hover:text-white px-3 py-2 rounded-md text-sm font-medium">Team</NuxtLink>
           </div>
         </div>
       </div>
